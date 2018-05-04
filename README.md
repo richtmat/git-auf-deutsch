@@ -1,4 +1,4 @@
-# Git auf Deutsch
+# Git auf Kölsch
 
 Die tägliche Kommunikation in deutschen Entwicklungsteams, die `git`
 (übersetzt: `Schwachkopf` oder `Depp`) anwenden, ist oft das feinste Denglish.
@@ -13,40 +13,40 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 
 | Verb        | Aktueller Gebrauch | Vorschlag             |
 |-------------|--------------------|-----------------------|
-| init        | initten            | eröffnen              |
-| add         | adden              | hinzufügen            |
-| pull        | pullen             | ziehen                |
-| push        | pushen             | drücken               |
-| clone       | clonen             | nachmachen            |
-| fetch       | fetchen            | holen                 |
+| init        | initten            | opmaache              |
+| add         | adden              | dobeidun            |
+| pull        | pullen             | trecke                |
+| push        | pushen             | däue               |
+| clone       | clonen             | nohmaache            |
+| fetch       | fetchen            | holle                 |
 | branch      | branchen           | abzweigen             |
-| commit      | commiten           | übergeben             |
-| rebase      | rebasen            | (neu) erden           |
-| diff        | diffen             | unterscheiden         |
-| merge       | mergen             | vereinigen            |
-| fork        | forken             | gabeln                |
-| stash       | stashen            | bunkern               |
-| tag         | taggen             | markieren             |
-| cherry-pick | cherry-picken      | Rosinen herauspicken  |
-| checkout    | checkouten         | nehmen                |
+| commit      | commiten           | avzweige             |
+| rebase      | rebasen            | (neu) ääden           |
+| diff        | diffen             | ungerscheide         |
+| merge       | mergen             | vereinige            |
+| fork        | forken             | jabeln                |
+| stash       | stashen            | bunkere               |
+| tag         | taggen             | markiere             |
+| cherry-pick | cherry-picken      | Rosinen eruspecke  |
+| checkout    | checkouten         | nemme                |
 
 | Substantiv    | Aktueller Gebrauch | Vorschlag            |
 |---------------|--------------------|----------------------|
-| git           | git                | Depp                 |
-| github        | github             | Deppendrehkreuz      |
-| gitlab        | gitlab             | Deppenlabor          |
-| gitea         | gitea              | Deppentee                
-| bitbucket     | bitbucket          | Gebisseimer          |
-| repository    | repo               | Lagerstätte          |
-| branch        | branch             | Zweig                |
+| git           | git                | Pappnas                 |
+| github        | github             | Pappnasdrihkrütz      |
+| gitlab        | gitlab             | Pappnashütt          |
+| gitea         | gitea              | Pappnasteebüggel                
+| bitbucket     | bitbucket          | Gebessemmer          |
+| repository    | repo               | Lagerhall          |
+| branch        | branch             | Zwig                |
 | commit        | commit             | Übergabe             |
-| log           | log                | Tagebuch             |
-| pull request  | pull request       | Ziehbegehren         |
-| merge request | merge request      | Vereinigungsbegehren |
+| log           | log                | Tageboch             |
+| pull request  | pull request       | Treckefroge         |
+| merge request | merge request      | Verbingefroge |
 | stash         | stash              | Bunker               |
-| status        | status             | Zustand              |
+| status        | status             | Zostand              |
 | tag           | tag                | Markierung           |
-| origin        | origin             | Ursprung             |
+| origin        | origin             | Herkunf             |
 | master        | master             | Meister              |
 
 ## Beispiele
